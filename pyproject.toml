@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dan-websocket"
-version = "3.5.0"
+version = "2.4.9"
 description = "Python server and client library for the DanProtocol v3.5 real-time state synchronization protocol"
 readme = "README.md"
 license = {text = "MIT"}
